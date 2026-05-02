@@ -29,8 +29,3 @@
 | Validation | 5.53 | 7.89 | 9.8% |
 | Test | **5.16** | **7.35** | **6.1%** |
 | *Test (promo only)* | *8.26* | *11.61* | *8.6%* |
-
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/01_eda_and_modeling.ipynb
